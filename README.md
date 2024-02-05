@@ -1,4 +1,4 @@
 - 🌱 My Art stuff [here](https://kang.studio/)  
-- 🔭 Side project Mint NFTs on Cardano [Factory Mint](https://factorymint.com/)
+- 🔭 Mint NFTs on Cardano [Factory Mint](https://factorymint.com/)
 - Soon hyperbland.com
 - 📫 Reach me: mail@kangchen.me
